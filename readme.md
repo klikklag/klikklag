@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=klikklag&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20%C2%B7%20tinkerer%20%C2%B7%20keyboard%20enthusiast&descSize=20&descAlignY=60" alt="klikklag header" width="100%"/>
@@ -17,37 +18,7 @@
 
 ---
 
-## 👾 About Me
 
-```js
-const klikklag = {
-  codename: "klikklag",
-  role: "Developer & Creator",
-  currentlyBuilding: "something I can't wait to show you",
-  currentlyLearning: ["Rust", "System Design", "Cool new things"],
-  askMeAbout: ["Web dev", "Open source", "Mechanical keyboards"],
-  funFact: "Yes, the name is the sound my keyboard makes ⌨️",
-};
-```
-
-- 🔭 Working on exciting side projects
-- 🌱 Constantly leveling up my skills
-- 💬 Ask me about anything tech, I love a good chat
-- ⚡ Fast typer, slow sleeper
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,tailwind&theme=dark" alt="Languages and frameworks" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postgres,mongodb,figma&theme=dark" alt="Tools" />
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -64,35 +35,12 @@ const klikklag = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=klikklag&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
-## 📌 Featured Projects
+## 📌 My website
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🚀 Project One</h3>
-      <p>A short, punchy description of what this project does and why it's awesome.</p>
-      <p><code>JavaScript</code> <code>React</code> <code>Node.js</code></p>
-      <a href="https://github.com/klikklag/project-one">View Repo →</a>
-    </td>
-    <td width="50%">
-      <h3>🧠 Project Two</h3>
-      <p>Another great project. Mention the problem it solves or the cool tech behind it.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>Docker</code></p>
-      <a href="https://github.com/klikklag/project-two">View Repo →</a>
-    </td>
-  </tr>
-</table>
-
+<p>klikklag.space</p>
+a
 ---
 
 ## 📈 Activity Graph
@@ -111,12 +59,12 @@ const klikklag = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-klikklag-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klikklag)
 [![Twitter](https://img.shields.io/badge/Twitter-@klikklag-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/klikklag)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klikklag)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+
 
 <br/>
 
-*"Talk is cheap. Show me the code."* ✨
+*"Talk is cheap. Show me the code."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" width="100%"/>
 
